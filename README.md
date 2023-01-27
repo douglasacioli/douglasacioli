@@ -11,7 +11,9 @@
 ## Corinthiano, Maloqueiro, Programador (graças a Deus!))
 
 <ul align="left">
-<li>📍Sou de São Paulo - SP e tenho 30 anos </li>
+<li>30 anos </li>
+<br>
+<li>📍São Paulo - SP</li>
 <br>
 <li>🎓 Bacharel em Ciências da Computação </li><br>
 <li>🎓 TEcnologo em Sistemas para Internet </li><br>
@@ -44,17 +46,6 @@ Gosto de me manter atualizado participando de bootcamps e comunidades de tecnolo
 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Studying in this moment
-
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-
-<div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglasacioli&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="douglasacioli github stats" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasacioli&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 <br>
 <!--Contatos-->
