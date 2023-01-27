@@ -24,7 +24,7 @@ Gosto de me manter atualizado participando de bootcamps e comunidades de tecnolo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,cs,sqlserver,javascript,html,css,js,jquery,bootstrap,git,github,visualstudio,dotnet,mysql,java&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,cs,javascript,html,css,js,jquery,bootstrap,git,github,visualstudio,dotnet,mysql,java&theme=dark&perline=8" />
   </a>
 </p>
 
