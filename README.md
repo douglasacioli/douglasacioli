@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img align = "right" width = "450px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 
 ## Corinthiano, Maloqueiro, Programador (graças a Deus!))
 
@@ -16,7 +16,7 @@
 <li>📍São Paulo - SP</li>
 <br>
 <li>🎓 Bacharel em Ciências da Computação </li><br>
-<li>🎓 Tecnologo em Sistemas para Internet </li><br>
+<li>🎓 TEcnologo em Sistemas para Internet </li><br>
 
 <li>🚀 Sou um profissional que da muito valor ao aprendizado contínuo.
 me formei bacharel em Ciências da computação e também obtive o certificado técnico de sistemas para internet pela Universidade Nove de Julho no ano de 2019 em São Paulo.
@@ -30,22 +30,38 @@ Gosto de me manter atualizado participando de bootcamps e comunidades de tecnolo
   </a>
 </p>
 
-### Main skills
+* Languages:
+    
+    <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
+    <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=node.js&logoColor=ED8B00">
+    <img src="https://img.shields.io/badge/Xamarin-0D1117?style=for-the-badge&logo=xamarin&logoColor=white">
 
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-0D1117?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=node.js&logoColor=ED8B00)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+    
+* Front-End Development:    
+    
+    <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
+    <img src="https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
 
-### Other Knowledge
+    
+* Back-End Development:    
+    <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white">
+  </p>
+</p>
 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<p align="left">
+  💼 Tools: 
+  <p align="left">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </p>
+</p>
 
 <br>
 <!--Contatos-->
