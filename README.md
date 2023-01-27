@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img align = "right" width = "450px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ## Corinthiano, Maloqueiro, Programador (graças a Deus!))
 
@@ -16,7 +16,7 @@
 <li>📍São Paulo - SP</li>
 <br>
 <li>🎓 Bacharel em Ciências da Computação </li><br>
-<li>🎓 TEcnologo em Sistemas para Internet </li><br>
+<li>🎓 Tecnologo em Sistemas para Internet </li><br>
 
 <li>🚀 Sou um profissional que da muito valor ao aprendizado contínuo.
 me formei bacharel em Ciências da computação e também obtive o certificado técnico de sistemas para internet pela Universidade Nove de Julho no ano de 2019 em São Paulo.
