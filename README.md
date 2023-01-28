@@ -1,5 +1,5 @@
 <div align = "center">
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+  <img height = "140px" src = "[https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif](https://media.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif)" >
   <br><p align="centre"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{douglasacioli}/count.svg" /></p>
 </div>
